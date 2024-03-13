@@ -1,0 +1,3 @@
+SQL
+	Desc Table Tablename;
+	
